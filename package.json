@@ -1,0 +1,25 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-RR/WebScrapper.git"
+  },
+  "author": "Benjamin Russell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjamin-RR/WebScrapper/issues"
+  },
+  "homepage": "https://github.com/Benjamin-RR/WebScrapper#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
